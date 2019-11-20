@@ -1,0 +1,12 @@
+#register{
+    width: 200px;
+    height: 400px;
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    display: block;
+}
+input{
+    padding: 5px;
+    margin: 5px;
+}
